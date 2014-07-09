@@ -1,0 +1,31 @@
+Here is the original FACEBOOK:
+
+Harry: Jimmy Elaine Tom Jill Cathy Bill 
+Cathy: George Harry Jose Tom Susan Lisa James 
+Bill: Harry Stephanie James 
+John: Tom George Susan 
+Marcia: Lisa Stephanie Jason 
+Jill: Harry George 
+James: Tom Bill Cathy 
+Lisa: Cathy Marcia 
+Jimmy: Harry Jose Elaine 
+Susan: Cathy John 
+Elaine: Harry Jimmy Tom 
+George: Cathy John Jill 
+Jason: Marcia 
+Stephanie: Bill Marcia Tom 
+Jose: Jimmy 
+Tom: Harry Cathy John James Elaine Stephanie 
+
+
+A) Harry knows 6 people.
+C) Does Harry know Bill? : yes
+E) Who knows Harry and Cathy? : 
+These people know Harry 
+Cathy Bill Jill Jimmy Elaine Tom 
+
+These people know Cathy 
+Harry James Lisa Susan George Tom 
+
+F) Does Lisa know Harry? : no
+G) Does Lisa know Cathy? : yes
