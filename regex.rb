@@ -1,6 +1,9 @@
 #KYLE PARKER
-#FINAL PROGRAM
-#MAY 12 2014
+
+#The following code uses regular exressions to search for Senders and Receivers of
+#of email logs. They are then sorted by Top Sender, Top Receiver, and Top Spammed.
+#All of the information is then saved into a hash table that is later used to print
+#the results in order from greates occurrence to least.
 
 class Regex
 
@@ -26,11 +29,6 @@ class Regex
 		return @emailHash
 	end
 end
-
-
-
-
-
 
 
 inputname = "tempData.txt"
